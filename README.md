@@ -13,6 +13,7 @@ I am an IT professional making the shift into software engineering.  My journey 
 
 📈 Currently leveling up in:
 - API's
+- Web Components
 - Data Structures and Algorithms
 
 🎨 When I'm not coding, I am spending time with my growing family, looking for inspiration on sites like dribbble.com or diving into the latest in web development through articles and documentation. 
